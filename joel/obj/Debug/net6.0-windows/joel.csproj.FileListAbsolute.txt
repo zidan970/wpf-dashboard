@@ -1,0 +1,5 @@
+E:\College 6\2. Pemrogaman Berbasis Kerangka Kerja\3. Tugas\Tugas 3\joel\joel\obj\Debug\net6.0-windows\joel.csproj.AssemblyReference.cache
+E:\College 6\2. Pemrogaman Berbasis Kerangka Kerja\3. Tugas\Tugas 3\joel\joel\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\College 6\2. Pemrogaman Berbasis Kerangka Kerja\3. Tugas\Tugas 3\joel\joel\obj\Debug\net6.0-windows\App.g.cs
+E:\College 6\2. Pemrogaman Berbasis Kerangka Kerja\3. Tugas\Tugas 3\joel\joel\obj\Debug\net6.0-windows\joel_MarkupCompile.cache
+E:\College 6\2. Pemrogaman Berbasis Kerangka Kerja\3. Tugas\Tugas 3\joel\joel\obj\Debug\net6.0-windows\joel_MarkupCompile.lref
